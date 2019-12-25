@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "435236826164",
+    "firebase_url": "https://tun-saw-thant.firebaseio.com",
+    "project_id": "tun-saw-thant",
+    "storage_bucket": "tun-saw-thant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435236826164:android:2164e537515d5f1a182e61",
+        "android_client_info": {
+          "package_name": "tunsawthant.com.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435236826164-snhbotq0c11f5u4jqm10dpakpqb2m92a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCec3d2P90H9qrYrlz4HDoz3IxPYyYvVJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435236826164-snhbotq0c11f5u4jqm10dpakpqb2m92a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
